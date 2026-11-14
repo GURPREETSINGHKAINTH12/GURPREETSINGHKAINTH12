@@ -27,10 +27,10 @@
 ```text
 ⚔️  Name      : Gurpreet Singh Kainth
 🎓  Studying  : B.Tech in Computer Science & Engineering (3rd Year)
-💻  Focus     : Software Development • Problem Solving • [Your Interest Here]
-🌱  Learning  : [What you're learning right now]
-🔭  Building  : [Your current project]
-🎯  Goal      : [Your goal - e.g. Internship / Developer role]
+💻  Focus     : Software Development • Problem Solving • Artificial Intelligence
+🌱  Learning  : Fundamentals
+🔭  Building  : Fateh AI Model (personalized)
+🎯  Goal      : AI Developer / Software Developer / AI Integration into new Technology
 ```
 
 > *"Deg Teg Fateh"* — prosperity for all, and the strength to protect what's right. I try to bring the same discipline, courage and service into the code I write. ⚔️
