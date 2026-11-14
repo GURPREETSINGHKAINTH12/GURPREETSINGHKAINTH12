@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F4D,50:1E4FA3,100:F5A623&height=220&section=header&text=Gurpreet%20Singh%20Kainth&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%98%AC%20Warrior%20Spirit%20%E2%80%A2%20Developer%20Mind%20%E2%98%AC&descSize=18&descAlignY=58" width="100%" alt="banner"/>
 
-<img src="./assets/khanda.svg" width="130" alt="Khanda"/>
+<img src="https://raw.githubusercontent.com/GURPREETSINGHKAINTH12/GURPREETSINGHKAINTH12/main/assets/khanda.svg" width="130" alt="Khanda"/>
 
 <h3>ੴ ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ 🙏</h3>
 
@@ -60,7 +60,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GURPREETSINGHKAINTH12&theme=radical&hide_border=true&background=0B1F4D&ring=F5A623&fire=F5A623&currStreakLabel=F5A623" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=GURPREETSINGHKAINTH12&theme=radical&hide_border=true&background=0B1F4D&ring=F5A623&fire=F5A623&currStreakLabel=F5A623" alt="streak"/>
 
 </div>
 
